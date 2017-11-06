@@ -1,0 +1,15 @@
+1)
+1. first name ="Nils" 
+2. street =="Pfaffenwaldring"
+3. house = 5b
+4. zip 70569
+5. city = Stuttgart"
+6. yearOfBirth=1980
+
+Errors:
+1. The space between "first" and "name" coundn't be there, a variable should not have any space in the middle. It should be: firstName = "Nils".
+2. It's a condition, not a variable, because "==" instead of the assignment symbol "=". It should be: street = "Pfaffenwaldring".
+3. 5b should be a string ("5b"). It should be house = "5b".
+4. It's without the assignment variable "=". It should be zip = 70569.
+5. The first quotation mark is missing. It should be city = "Stuttgart".
+6. It's ok.
