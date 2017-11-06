@@ -1,0 +1,67 @@
+# First-time programming course
+# Exercise 1 (due 2.11.2017)
+# Group:
+# 	Amelie Fritsch, 3332267
+# 	Hana Kang, 3247297
+# 	Levindo Gabriel Taschetto Neto, 3292080
+# 	Vanessa Hindinger, 3324440
+
+
+#1 What is what in the following snippet? Point out all!
+
+1) x = 5 + 1
+   x is a variable, = is an assignment operator, 5 and 1 are values, and + is an operator.
+  
+2) z = "z"
+   z is a variable, = is a assignment operator and "z"
+   is a string (or str).
+
+3) x = print (x, x)    
+   x is a variable, = is a assignment operator, and print(x, x) is a function call, and x is a variable.
+  
+4) z = fun (z, x)
+   z is a variable, = is a assignment operator, and fun(z, x) is a function call.
+
+5) x * 7 (expression)          
+   x is a variable, * an operator, and 7 a constant value.
+   
+==================================================================
+
+#2 Are the following lines valid expressions? If not, why?
+
+1) 5 + (7 * 3) ** (1 + 2)
+   It's a valid expression with a result value equals to 9266.
+
+2) -7
+  It's a valid expression (Just a constant, though)
+
+3) 'hallo
+   It's not valid, because the second quotation mark is missing.
+
+4) a - 7
+   It's a valid expression if a is previously defined in the program, where the expression is being used.
+
+5) 3 * (4 + (5 + (6 + ( 7 + 8 )))
+   It's not a valid expression, because the 4th closing bracket is missing.
+
+6) y = 234 ** 7
+   It's a valid expression.
+   
+==================================================================
+
+#3 What do the following expressions evalaute to?
+
+1) 25 / 2 (Normal Division)
+  12.5
+
+2) 25 % 2 (Get the remainder value in the division)
+  1
+
+3) 25 // 2 (Floor Division)
+  12
+
+4) (25 // 2) * 2 + (25%2)
+  25
+
+5) 'word' * (240 ** 17 // (( 120 + 2 * 60) ** 16)%238)
+  'wordword'
