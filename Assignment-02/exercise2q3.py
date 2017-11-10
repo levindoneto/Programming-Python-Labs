@@ -4,7 +4,7 @@ while (True):
 	listBillsAmount = [[5, 0], [10, 0], [20, 0], [50, 0], [100, 0], [200, 0], [500, 0]]
 	a = input("Enter amount you want to withdraw:\n")
 	value = int (a)
-	if (value%500!=0 and value%200!=0 and value%100!=0 and value%50!=0 and value%20!=0 and value%10!=0 and value%5!=0):
+	if (value%5!=0):
 		print("Error")
 	
 	while (value >= 5):
