@@ -1,3 +1,10 @@
+''' EX2(a) - Assignment 07 
+    Amelie Fritsch, 3332267
+    Vanessa Hindinger, 3324440
+    Hana Kang, 3247297
+    Levindo Gabriel Taschetto Neto, 3292080
+'''
+
 import re
 
 ''' Function that recognizes spaces as tokens '''

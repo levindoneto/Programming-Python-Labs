@@ -1,0 +1,61 @@
+''' EX2(a) - Assignment 07
+    Amelie Fritsch, 3332267
+    Vanessa Hindinger, 3324440
+    Hana Kang, 3247297
+    Levindo Gabriel Taschetto Neto, 3292080
+'''
+
+Line 04:
+Type:  <class 'str'>
+Value:  long
+----------------
+
+Line 05:
+Type:  <class 'list'>
+Value:  ['force', 'be']
+----------------
+
+Line 06:
+Type:  <class 'bool'>
+Value:  True
+----------------
+
+Line 07:
+Type:  <class 'int'>
+Value:  7
+----------------
+
+Line 08:
+Type:  <class 'list'>
+Value:  ['live', 'long', 'and', 'prosper', 'be', 'with', 'you']
+----------------
+
+Line 09:
+Type:  <class 'list'>
+Value:  ['prosper', 'They', 'call', 'it', 'a']
+----------------
+
+Line 10:
+Type:  <class 'int'>
+Value:  21
+----------------
+
+Line 11:
+Type:  <class 'int'>
+Value:  21
+----------------
+
+Line 12:
+Type:  <class 'bool'>
+Value:  True
+----------------
+
+Line 13:
+Type:  <class 'bool'>
+Value:  True
+----------------
+
+Line 14:
+Type:  <class 'str'>
+Value:  live losper
+----------------
